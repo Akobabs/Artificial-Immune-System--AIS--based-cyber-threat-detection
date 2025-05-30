@@ -1,11 +1,8 @@
----
-
 # AIS-Based Cyber Threat Detection System
 
 An **Artificial Immune System (AIS)** for real-time anomaly detection in time-series data, built using the **Numenta Anomaly Benchmark (NAB)** dataset. This system leverages biologically inspired algorithms — **Negative Selection (NSA)** and **Clonal Selection (CSA)** — and features a responsive **Streamlit web interface** with dynamic visualizations powered by Plotly.
 
 📊 **Model Performance**
-
 * **Accuracy**: 92%
 * **Precision**: 90%
 * **Recall**: 88%
